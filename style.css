@@ -51,4 +51,7 @@ h3{
 
 ul{
 	line-height: 24px;
+}#card #pic {
+	background-image: url(images/%E6%9D%8E%E5%AE%9C%E8%87%BB.png);
+	background-color: #F29899;
 }
